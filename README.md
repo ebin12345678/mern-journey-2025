@@ -14,3 +14,8 @@
 
 ---
 Stay tuned for weekly reflections 👇
+## 📅 Weekly Progress 
+### week 1 
+- Learned HTML, CSS, Flex Box Grid, Bootstrap, Responsive web design , SQL Basics
+- Built an Amazon static website using html an css.
+- upload my "Amazon html and css" project on GIT HUB. 
