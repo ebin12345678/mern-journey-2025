@@ -18,4 +18,14 @@ Stay tuned for weekly reflections 👇
 ### week 1 
 - Learned HTML, CSS, Flex Box Grid, Bootstrap, Responsive web design , SQL Basics
 - Built an Amazon static website using html an css.
-- upload my "Amazon html and css" project on GIT HUB. 
+- upload my "Amazon html and css" project on GIT HUB.
+
+### week 2
+- python
+- input and output basics
+- type conversion
+- relational operators and conditional operators
+- for loop
+- while loop
+- string method
+  
